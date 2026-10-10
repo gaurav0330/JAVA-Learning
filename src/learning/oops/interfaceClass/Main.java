@@ -104,7 +104,7 @@ class D implements A {
 
 // AFTER JAVA 8 default method,static method , private method
 // by using default in the interface you can define as well
-// java List Interface --> methods added new method but from stopping force full override they come with default no need to override
+// java ListInterface Interface --> methods added new method but from stopping force full override they come with default no need to override
 //
 interface  Vehicle{
     default void drive(){

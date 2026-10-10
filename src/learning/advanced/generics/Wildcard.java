@@ -12,8 +12,8 @@ Generic<A> is not a child of Generic<B>
 
 //wildcard with upperbound
 
-//force full editing with using keyword super <List ? super Animal> Animal upper things needed
-//upper bound keyword extend <List ? extend Animal> Animal and Animal subtype allow for reading
+//force full editing with using keyword super <ListInterface ? super Animal> Animal upper things needed
+//upper bound keyword extend <ListInterface ? extend Animal> Animal and Animal subtype allow for reading
 
 
 
